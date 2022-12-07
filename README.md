@@ -1,7 +1,7 @@
 ## Olá! Me chamo Thales
 
-- 🔭 Estudando: Fullstack
-- 🌱 Aprendendo no momento: a criar uma API + Back + Front
+- 🔭 Qualificação: Fullstack
+- 🌱 Aprendendo: Criando uma API + Back + Front
 - 📫 Contato: GitHub
 - ⚡ Cacterísticas: Dedicado, analítico e eficiente
 
