@@ -3,7 +3,7 @@
 - 🔭 Qualificação: Fullstack Jr
 - 🌱 Aprendendo: Criando uma API, Back e Front
 - 📫 Contato: GitHub
-- ⚡ Cacterísticas: Dedicado, analítico e eficiente
+- ⚡ Características: Dedicado, analítico e eficiente
 
 <div align="center">
   <a href="https://github.com/ThalesArede">
