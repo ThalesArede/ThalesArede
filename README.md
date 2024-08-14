@@ -1,7 +1,7 @@
 ## Olá! Me chamo Thales
 
 - 🔭 Qualificação: Fullstack Jr
-- 🌱 Aprendendo: Criando uma API, Back e Front
+- 🌱 Aprendendo: Focado em Backend, estudando um pouco de Frontend
 - 📫 Contato: GitHub
 - ⚡ Características: Dedicado, analítico e eficiente
 
