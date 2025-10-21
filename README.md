@@ -1,7 +1,7 @@
 ## Olá! Me chamo Thales
 
-- 🔭 Qualificação: Fullstack Jr
-- 🌱 Aprendendo: Focado em Backend, estudando um pouco de Frontend
+- 🔭 Qualificação: Fullstack C# .NET
+- 🌱 Aprendendo: Kotlin e design de aplicativos.
 - 📫 Contato: GitHub
 - ⚡ Características: Dedicado, analítico e eficiente
 
