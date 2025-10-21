@@ -1,7 +1,7 @@
 ## Olá! Me chamo Thales
 
 - 🔭 Qualificação: Fullstack C# .NET
-- 🌱 Aprendendo: Kotlin e design de aplicativos.
+- 🌱 Aprendendo: Gerenciamento e criação de aplicações utilizando IA, Kotlin e Design de aplicativos.
 - 📫 Contato: GitHub
 - ⚡ Características: Dedicado, analítico e eficiente
 
